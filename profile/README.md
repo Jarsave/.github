@@ -13,6 +13,6 @@ An app for iPhone and Android where kids earn money from real effort, save it, a
 
 No ads, no data sold. Waitlist open at [jarsave.com](https://jarsave.com).
 
-[Website](https://jarsave.com) · [Blog](https://blog.jarsave.com/en/) · [Bahasa Indonesia](https://id.jarsave.com) · [Privacy](https://jarsave.com/privacy) · support@jarsave.com
+[Website](https://jarsave.com) · [Blog](https://blog.jarsave.com/en/) · [YouTube](https://www.youtube.com/@JarSave) · [Bahasa Indonesia](https://id.jarsave.com) · [Privacy](https://jarsave.com/privacy) · support@jarsave.com
 
 Run by PT Nadi Inovasi Nusantara, Indonesia.
